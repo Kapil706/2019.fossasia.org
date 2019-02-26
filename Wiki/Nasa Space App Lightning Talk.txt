@@ -1,0 +1,51 @@
+Please add your lightning talk for the [FOSSASIA](http://2019.fossasia.org) Summit 2019 [here](#schedule).
+
+## Description
+[Lightning Talks](http://en.wikipedia.org/wiki/Lightning_Talk) are short lectures (almost) any conference participant may give!
+
+## Content
+Bring your infectious enthusiasm to an audience with a short attention span! Discuss a program, software, hardware, system or technique! Pitch your projects and ideas or try to rally a crew of people to join you! Whatever you bring, make it quick! 
+
+## Timeslots
+
+Please have a look at the session schedule of the lightning talk slots. The lightning talks have a slot of 5 minutes including setup.
+
+## Registration
+Lightning talk registration will be open once speakers who converted their talk to a lightning talk are on the list! There is also review to ensure the lightning talks rules (see below) are kept.
+
+**To submit your own Lightning Talk, there are several steps necessary:**
+
+1. Sign up as a user of this wiki ("Create account" link on the top right of the page)
+2. Fill in details here that describes your Lightning Talk
+3. Upload your slides somewhere and place a link to the slides into the lightning talks table
+4. One week before the event: Ensure the details are correct and the pdf is working
+
+**Some more rules:**
+
+* Technical talks are preferred (no sales pitches)
+* Only one lightning talk per person/project/group per day
+* PDF slides only
+* Final time slot assignment only if we have slides. Please add slides at least one week before the event. Preliminary slides are okay, you can update your slides until 10:00 am on the day before the talk.
+* Please also sign up for the lightning talk on [meetup.com](https://www.meetup.com/FOSSASIA-Singapore-Open-Technology-Meetup/events/258798747/) and invite your friends
+***
+## Schedule
+
+You need to be there 20 minutes before your talk!
+
+### Lightning Talks - Sunday, March 17, 2019
+| Time | Title  | Speaker  |  Description | Tags  | Links  | Slides  |
+|---|---|---|---|---|---|---|
+| 10:00 | Image Search using deep learning  | [Anurag Chatterjee](https://github.com/ace-racer)|  Technique, tools and evaluation | `deep-learning`, `images`, `machine-vision`| Links  | [Slides](https://docs.google.com/presentation/d/10BIsf95V3sbcm2zHPRskcfi99OTBMo-JMJEM8jqUbwU/edit#slide=id.gcb9a0b074_1_0)  |
+| 10:05 | Accelerated Mobile Pages  | [Bhanu Shukla](https://github.com/bhanushukla)|  Present, Past and Future of AMPs | `AMP`, `mobile-web`, `performance`  | Links  | [Slides](https://docs.google.com/presentation/d/10BIsf95V3sbcm2zHPRskcfi99OTBMo-JMJEM8jqUbwU/edit?usp=sharing)  |
+| 10:10 | The Trovu project  | [Georg Jähnig](https://github.com/georgjaehnig) |  Decentralized search tool via Git: features, usage, contribution opportunities | `web search`, `privacy`, `social`  | [Main website](https://trovu.net)  | Slides  |
+| 10:15 | Eventyay Attendee Walkthrough  | [Nikit Bhandari](https://github.com/nikit19)| A walk through of the Android app | `Android`, `Mobile`,  | Links  | [Slides](https://docs.google.com/presentation/d/1MC9uQ1EU2eyqF2gaxrecdWO9JJ8nLhvPnC5LqpwFFgs/edit?usp=sharing)  |
+| 10:20 | The Borg Backup Project  | [Manuel Riel](https://github.com/m3nu/) |  Main features, related projects and opportunities for contributors.  | `backup`  | [Main website](https://borgbackup.readthedocs.io/en/stable/)  | [Slides](http://slides.com/thomaswaldmann/borg-35c3#/)  |
+| 10:25 | Why GraphQL over REST  | [Anupam Dagar](https://github.com/Anupam-dagar) |  Comparing the two API methodologies | `GraphQL`, `REST`, `API`  | Links  | [Slides](https://drive.google.com/file/d/1lJuwdpxABDYFaz7Hqp5CduSP16LxqpwY/view?usp=sharing)  |
+| 10:30 | Title  | Name and Link to Profile |  Description | Tags  | Links  | Slides  |
+| 10:35 | Title  | Name and Link to Profile |  Description | Tags  | Links  | Slides  |
+| 10:40 | Title  | Name and Link to Profile |  Description | Tags  | Links  | Slides  |
+| 10:45 | Title  | Name and Link to Profile |  Description | Tags  | Links  | Slides  |
+| 10:50 | NASA SPACE APP CHALLENGE  | [Kapil Chaudhary](https://github.com/kapil706) |  App that can predicts HABs | `Firebase`,`Custom-Model`,`TensorFlow`  | [Youtube](https://www.youtube.com/channel/UCNGW5HufvOOtSl1A_G1BgvQ?view_as=subscriber)  | Slides(https://docs.google.com/presentation/d/1MYfDKiy80K5dthoigactmLYDHf74KQELYs1o2bH59Ko/edit?usp=sharing) |
+| 10:55 | Title  | Name and Link to Profile |  Description | Tags  | Links  | Slides  |
+
+11:00 End of lightning Talks
